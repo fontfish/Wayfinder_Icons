@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>arc.component</key>
+    <string>arc.component.glif</string>
+    <key>circle.component</key>
+    <string>circle.component.glif</string>
+    <key>circle_inner.component</key>
+    <string>circle_inner.component.glif</string>
+    <key>line.component</key>
+    <string>line.component.glif</string>
+    <key>line_inner.component</key>
+    <string>line_inner.component.glif</string>
+    <key>ring.component</key>
+    <string>ring.component.glif</string>
+  </dict>
+</plist>

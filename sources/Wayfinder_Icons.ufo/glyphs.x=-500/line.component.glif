@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="line.component" format="2">
+  <advance width="1000"/>
+  <outline>
+    <contour>
+      <point x="-750" y="50" type="line"/>
+      <point x="-778" y="50"/>
+      <point x="-800" y="28"/>
+      <point x="-800" y="0" type="curve" smooth="yes"/>
+      <point x="-800" y="-28"/>
+      <point x="-778" y="-50"/>
+      <point x="-750" y="-50" type="curve"/>
+      <point x="-250" y="-50" type="line"/>
+      <point x="-222" y="-50"/>
+      <point x="-200" y="-28"/>
+      <point x="-200" y="0" type="curve" smooth="yes"/>
+      <point x="-200" y="28"/>
+      <point x="-222" y="50"/>
+      <point x="-250" y="50" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="arc.component" format="2">
+  <advance width="1000"/>
+  <outline>
+    <contour>
+      <point x="250" y="0" type="curve" smooth="yes"/>
+      <point x="250" y="138.22222900390625"/>
+      <point x="138.22222900390625" y="250"/>
+      <point x="0" y="250" type="curve" smooth="yes"/>
+      <point x="-67.95555877685547" y="250"/>
+      <point x="-122.5" y="195.45555114746094"/>
+      <point x="-122.5" y="127.5" type="curve" smooth="yes"/>
+      <point x="-122.5" y="59.5444450378418"/>
+      <point x="-67.95555877685547" y="5"/>
+      <point x="0" y="5" type="curve" smooth="yes"/>
+      <point x="3" y="5"/>
+      <point x="5" y="3"/>
+      <point x="5" y="0" type="curve" smooth="yes"/>
+      <point x="5" y="-67.95555877685547"/>
+      <point x="59.5444450378418" y="-122.5"/>
+      <point x="127.5" y="-122.5" type="curve" smooth="yes"/>
+      <point x="195.45555114746094" y="-122.5"/>
+      <point x="250" y="-67.95555877685547"/>
+    </contour>
+  </outline>
+</glyph>

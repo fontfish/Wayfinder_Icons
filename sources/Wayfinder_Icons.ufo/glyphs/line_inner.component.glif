@@ -1,0 +1,172 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="line_inner.component" format="2">
+  <advance width="1000"/>
+  <outline>
+    <contour>
+      <point x="-250" y="50" type="curve"/>
+      <point x="250" y="50" type="line"/>
+      <point x="278" y="50"/>
+      <point x="300" y="28"/>
+      <point x="300" y="0" type="curve" smooth="yes"/>
+      <point x="300" y="-28"/>
+      <point x="278" y="-50"/>
+      <point x="250" y="-50" type="curve"/>
+      <point x="-250" y="-50" type="line"/>
+      <point x="-278" y="-50"/>
+      <point x="-300" y="-28"/>
+      <point x="-300" y="0" type="curve" smooth="yes"/>
+      <point x="-300" y="28"/>
+      <point x="-278" y="50"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.black-foundry.glyph-designspace</key>
+      <dict>
+        <key>axes</key>
+        <array>
+          <dict>
+            <key>default</key>
+            <integer>100</integer>
+            <key>maximum</key>
+            <integer>1000</integer>
+            <key>minimum</key>
+            <integer>10</integer>
+            <key>name</key>
+            <string>Size</string>
+          </dict>
+          <dict>
+            <key>default</key>
+            <integer>500</integer>
+            <key>maximum</key>
+            <integer>1000</integer>
+            <key>minimum</key>
+            <integer>10</integer>
+            <key>name</key>
+            <string>Length</string>
+          </dict>
+        </array>
+        <key>sources</key>
+        <array>
+          <dict>
+            <key>layername</key>
+            <string>Size=1000</string>
+            <key>location</key>
+            <dict>
+              <key>Size</key>
+              <integer>1000</integer>
+            </dict>
+            <key>name</key>
+            <string>Size=1000</string>
+          </dict>
+          <dict>
+            <key>layername</key>
+            <string>Size=10</string>
+            <key>location</key>
+            <dict>
+              <key>Size</key>
+              <integer>10</integer>
+            </dict>
+            <key>name</key>
+            <string>Size=10</string>
+          </dict>
+          <dict>
+            <key>layername</key>
+            <string>Length=10</string>
+            <key>location</key>
+            <dict>
+              <key>Length</key>
+              <integer>10</integer>
+            </dict>
+            <key>name</key>
+            <string>Length=10</string>
+          </dict>
+          <dict>
+            <key>layername</key>
+            <string>Length=1000</string>
+            <key>location</key>
+            <dict>
+              <key>Length</key>
+              <integer>1000</integer>
+            </dict>
+            <key>name</key>
+            <string>Length=1000</string>
+          </dict>
+          <dict>
+            <key>layername</key>
+            <string>bg=1,Size=1000</string>
+            <key>location</key>
+            <dict>
+              <key>Size</key>
+              <integer>1000</integer>
+              <key>bg</key>
+              <integer>1</integer>
+            </dict>
+            <key>name</key>
+            <string>bg=1,Size=1000</string>
+          </dict>
+          <dict>
+            <key>layername</key>
+            <string>bg=1,Size=10</string>
+            <key>location</key>
+            <dict>
+              <key>Size</key>
+              <integer>10</integer>
+              <key>bg</key>
+              <integer>1</integer>
+            </dict>
+            <key>name</key>
+            <string>bg=1,Size=10</string>
+          </dict>
+          <dict>
+            <key>layername</key>
+            <string>bg=1,Length=10</string>
+            <key>location</key>
+            <dict>
+              <key>Length</key>
+              <integer>10</integer>
+              <key>bg</key>
+              <integer>1</integer>
+            </dict>
+            <key>name</key>
+            <string>bg=1,Length=10</string>
+          </dict>
+          <dict>
+            <key>layername</key>
+            <string>bg=1,Length=1000</string>
+            <key>location</key>
+            <dict>
+              <key>Length</key>
+              <integer>1000</integer>
+              <key>bg</key>
+              <integer>1</integer>
+            </dict>
+            <key>name</key>
+            <string>bg=1,Length=1000</string>
+          </dict>
+        </array>
+      </dict>
+      <key>xyz.fontra.layer-names</key>
+      <dict>
+        <key>::fontra000</key>
+        <string>default</string>
+        <key>::fontra000^Length=10</key>
+        <string>Length=10</string>
+        <key>::fontra000^Length=1000</key>
+        <string>Length=1000</string>
+        <key>::fontra000^Size=10</key>
+        <string>Size=10</string>
+        <key>::fontra000^Size=1000</key>
+        <string>Size=1000</string>
+        <key>b2b885e2^bg=1,Length=10</key>
+        <string>bg=1,Length=10</string>
+        <key>b2b885e2^bg=1,Length=1000</key>
+        <string>bg=1,Length=1000</string>
+        <key>b2b885e2^bg=1,Size=10</key>
+        <string>bg=1,Size=10</string>
+        <key>b2b885e2^bg=1,Size=1000</key>
+        <string>bg=1,Size=1000</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

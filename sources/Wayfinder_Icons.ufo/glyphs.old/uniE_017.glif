@@ -1,0 +1,330 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniE017" format="2">
+  <advance width="1000"/>
+  <unicode hex="E017"/>
+  <outline>
+    <contour>
+      <point x="1944" y="460" type="curve"/>
+      <point x="1460" y="460" type="line"/>
+      <point x="1460" y="482"/>
+      <point x="1478" y="500"/>
+      <point x="1500" y="500" type="curve" smooth="yes"/>
+      <point x="1931" y="500" type="line"/>
+      <point x="1918" y="536"/>
+      <point x="1900" y="569"/>
+      <point x="1879" y="600" type="curve"/>
+      <point x="1500" y="600" type="line" smooth="yes"/>
+      <point x="1478" y="600"/>
+      <point x="1460" y="618"/>
+      <point x="1460" y="640" type="curve" smooth="yes"/>
+      <point x="1460" y="662"/>
+      <point x="1478" y="680"/>
+      <point x="1500" y="680" type="curve" smooth="yes"/>
+      <point x="1810" y="680" type="line"/>
+      <point x="1728" y="755"/>
+      <point x="1619" y="800"/>
+      <point x="1500" y="800" type="curve" smooth="yes"/>
+      <point x="1246" y="800"/>
+      <point x="1040" y="594"/>
+      <point x="1040" y="340" type="curve" smooth="yes"/>
+      <point x="1040" y="86"/>
+      <point x="1246" y="-120"/>
+      <point x="1500" y="-120" type="curve" smooth="yes"/>
+      <point x="1754" y="-120"/>
+      <point x="1960" y="86"/>
+      <point x="1960" y="340" type="curve" smooth="yes"/>
+      <point x="1960" y="375"/>
+      <point x="1956" y="418"/>
+    </contour>
+    <contour>
+      <point x="1460" y="460" type="line"/>
+      <point x="1460" y="438"/>
+      <point x="1478" y="420"/>
+      <point x="1500" y="420" type="curve" smooth="yes"/>
+      <point x="1892" y="420" type="line"/>
+      <point x="1897" y="395"/>
+      <point x="1900" y="367"/>
+      <point x="1900" y="340" type="curve" smooth="yes"/>
+      <point x="1900" y="320" type="line"/>
+      <point x="1500" y="320" type="line" smooth="yes"/>
+      <point x="1478" y="320"/>
+      <point x="1460" y="302"/>
+      <point x="1460" y="280" type="curve" smooth="yes"/>
+      <point x="1460" y="258"/>
+      <point x="1478" y="240"/>
+      <point x="1500" y="240" type="curve" smooth="yes"/>
+      <point x="1887" y="240" type="line"/>
+      <point x="1878" y="205"/>
+      <point x="1864" y="171"/>
+      <point x="1846" y="140" type="curve"/>
+      <point x="1500" y="140" type="line" smooth="yes"/>
+      <point x="1478" y="140"/>
+      <point x="1460" y="122"/>
+      <point x="1460" y="100" type="curve" smooth="yes"/>
+      <point x="1460" y="78"/>
+      <point x="1478" y="60"/>
+      <point x="1500" y="60" type="curve" smooth="yes"/>
+      <point x="1786" y="60" type="line"/>
+      <point x="1713" y="-14"/>
+      <point x="1612" y="-60"/>
+      <point x="1500" y="-60" type="curve" smooth="yes"/>
+      <point x="1279" y="-60"/>
+      <point x="1100" y="119"/>
+      <point x="1100" y="340" type="curve" smooth="yes"/>
+      <point x="1100" y="403"/>
+      <point x="1118" y="460" type="qcurve"/>
+    </contour>
+    <contour>
+      <point x="900" y="340" type="curve"/>
+      <point x="900" y="119"/>
+      <point x="721" y="-60"/>
+      <point x="500" y="-60" type="curve"/>
+      <point x="279" y="-60"/>
+      <point x="100" y="119"/>
+      <point x="100" y="340" type="curve"/>
+      <point x="100" y="382"/>
+      <point x="106" y="422"/>
+      <point x="118" y="460" type="curve"/>
+      <point x="882" y="460" type="line"/>
+      <point x="894" y="422"/>
+      <point x="900" y="382"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.black-foundry.variable-components</key>
+      <array>
+        <dict>
+          <key>base</key>
+          <string>circle.component</string>
+          <key>location</key>
+          <dict>
+            <key>Size</key>
+            <integer>920</integer>
+          </dict>
+          <key>transformation</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scaleX</key>
+            <integer>1</integer>
+            <key>scaleY</key>
+            <integer>1</integer>
+            <key>skewX</key>
+            <integer>0</integer>
+            <key>skewY</key>
+            <integer>0</integer>
+            <key>tCenterX</key>
+            <integer>0</integer>
+            <key>tCenterY</key>
+            <integer>0</integer>
+            <key>translateX</key>
+            <integer>500</integer>
+            <key>translateY</key>
+            <integer>340</integer>
+          </dict>
+        </dict>
+        <dict>
+          <key>base</key>
+          <string>line.component</string>
+          <key>location</key>
+          <dict>
+            <key>Length</key>
+            <integer>400</integer>
+            <key>Size</key>
+            <integer>80</integer>
+            <key>x</key>
+            <integer>200</integer>
+          </dict>
+          <key>transformation</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scaleX</key>
+            <integer>1</integer>
+            <key>scaleY</key>
+            <integer>1</integer>
+            <key>skewX</key>
+            <integer>0</integer>
+            <key>skewY</key>
+            <integer>0</integer>
+            <key>tCenterX</key>
+            <integer>0</integer>
+            <key>tCenterY</key>
+            <integer>0</integer>
+            <key>translateX</key>
+            <integer>500</integer>
+            <key>translateY</key>
+            <integer>280</integer>
+          </dict>
+        </dict>
+        <dict>
+          <key>base</key>
+          <string>line.component</string>
+          <key>location</key>
+          <dict>
+            <key>Length</key>
+            <integer>400</integer>
+            <key>Size</key>
+            <integer>80</integer>
+            <key>x</key>
+            <integer>200</integer>
+          </dict>
+          <key>transformation</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scaleX</key>
+            <integer>1</integer>
+            <key>scaleY</key>
+            <integer>1</integer>
+            <key>skewX</key>
+            <integer>0</integer>
+            <key>skewY</key>
+            <integer>0</integer>
+            <key>tCenterX</key>
+            <integer>0</integer>
+            <key>tCenterY</key>
+            <integer>0</integer>
+            <key>translateX</key>
+            <integer>500</integer>
+            <key>translateY</key>
+            <integer>100</integer>
+          </dict>
+        </dict>
+        <dict>
+          <key>base</key>
+          <string>line.component</string>
+          <key>location</key>
+          <dict>
+            <key>Length</key>
+            <integer>400</integer>
+            <key>Size</key>
+            <integer>80</integer>
+            <key>x</key>
+            <integer>200</integer>
+          </dict>
+          <key>transformation</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scaleX</key>
+            <integer>1</integer>
+            <key>scaleY</key>
+            <integer>1</integer>
+            <key>skewX</key>
+            <integer>0</integer>
+            <key>skewY</key>
+            <integer>0</integer>
+            <key>tCenterX</key>
+            <integer>0</integer>
+            <key>tCenterY</key>
+            <integer>0</integer>
+            <key>translateX</key>
+            <integer>500</integer>
+            <key>translateY</key>
+            <integer>460</integer>
+          </dict>
+        </dict>
+        <dict>
+          <key>base</key>
+          <string>line.component</string>
+          <key>location</key>
+          <dict>
+            <key>Length</key>
+            <integer>400</integer>
+            <key>Size</key>
+            <integer>80</integer>
+            <key>x</key>
+            <integer>200</integer>
+          </dict>
+          <key>transformation</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scaleX</key>
+            <integer>1</integer>
+            <key>scaleY</key>
+            <integer>1</integer>
+            <key>skewX</key>
+            <integer>0</integer>
+            <key>skewY</key>
+            <integer>0</integer>
+            <key>tCenterX</key>
+            <integer>0</integer>
+            <key>tCenterY</key>
+            <integer>0</integer>
+            <key>translateX</key>
+            <integer>500</integer>
+            <key>translateY</key>
+            <integer>640</integer>
+          </dict>
+        </dict>
+        <dict>
+          <key>base</key>
+          <string>line.component</string>
+          <key>location</key>
+          <dict>
+            <key>Length</key>
+            <integer>400</integer>
+            <key>Size</key>
+            <integer>80</integer>
+            <key>x</key>
+            <integer>200</integer>
+          </dict>
+          <key>transformation</key>
+          <dict>
+            <key>rotation</key>
+            <integer>90</integer>
+            <key>scaleX</key>
+            <integer>1</integer>
+            <key>scaleY</key>
+            <integer>1</integer>
+            <key>skewX</key>
+            <integer>0</integer>
+            <key>skewY</key>
+            <integer>0</integer>
+            <key>tCenterX</key>
+            <integer>0</integer>
+            <key>tCenterY</key>
+            <integer>0</integer>
+            <key>translateX</key>
+            <integer>300</integer>
+            <key>translateY</key>
+            <integer>-20</integer>
+          </dict>
+        </dict>
+        <dict>
+          <key>base</key>
+          <string>circle_inner.component</string>
+          <key>location</key>
+          <dict>
+            <key>Size</key>
+            <integer>140</integer>
+          </dict>
+          <key>transformation</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scaleX</key>
+            <integer>1</integer>
+            <key>scaleY</key>
+            <integer>1</integer>
+            <key>skewX</key>
+            <integer>0</integer>
+            <key>skewY</key>
+            <integer>0</integer>
+            <key>tCenterX</key>
+            <integer>0</integer>
+            <key>tCenterY</key>
+            <integer>0</integer>
+            <key>translateX</key>
+            <integer>300</integer>
+            <key>translateY</key>
+            <integer>570</integer>
+          </dict>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

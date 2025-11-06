@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniE05E" format="2">
+  <advance width="1000"/>
+  <unicode hex="E05E"/>
+  <outline>
+  </outline>
+  <lib>
+    <dict>
+      <key>xyz.fontra.layer-names</key>
+      <dict>
+        <key>::fontra000</key>
+        <string>default</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

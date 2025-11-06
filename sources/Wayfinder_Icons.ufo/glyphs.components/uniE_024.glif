@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniE024" format="2">
+  <advance width="1000"/>
+  <unicode hex="E024"/>
+  <outline>
+    <contour>
+      <point x="500" y="660" type="curve" smooth="yes"/>
+      <point x="323" y="660"/>
+      <point x="180" y="517"/>
+      <point x="180" y="340" type="curve" smooth="yes"/>
+      <point x="180" y="163"/>
+      <point x="323" y="20"/>
+      <point x="500" y="20" type="curve" smooth="yes"/>
+      <point x="677" y="20"/>
+      <point x="820" y="163"/>
+      <point x="820" y="340" type="curve" smooth="yes"/>
+      <point x="820" y="428"/>
+      <point x="783" y="508"/>
+      <point x="726" y="566" type="curve" smooth="yes"/>
+      <point x="716" y="576"/>
+      <point x="702" y="582"/>
+      <point x="687" y="582" type="curve" smooth="yes"/>
+      <point x="656" y="582"/>
+      <point x="632" y="558"/>
+      <point x="632" y="527" type="curve" smooth="yes"/>
+      <point x="632" y="512"/>
+      <point x="638" y="498"/>
+      <point x="648" y="488" type="curve" smooth="yes"/>
+      <point x="686" y="450"/>
+      <point x="710" y="397"/>
+      <point x="710" y="340" type="curve" smooth="yes"/>
+      <point x="710" y="224"/>
+      <point x="616" y="130"/>
+      <point x="500" y="130" type="curve" smooth="yes"/>
+      <point x="384" y="130"/>
+      <point x="290" y="224"/>
+      <point x="290" y="340" type="curve" smooth="yes"/>
+      <point x="290" y="456"/>
+      <point x="384" y="550"/>
+      <point x="500" y="550" type="curve" smooth="yes"/>
+      <point x="531" y="550"/>
+      <point x="555" y="574"/>
+      <point x="555" y="605" type="curve" smooth="yes"/>
+      <point x="555" y="636"/>
+      <point x="531" y="660"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.black-foundry.variable-components</key>
+      <array>
+        <dict>
+          <key>base</key>
+          <string>ring.component</string>
+          <key>location</key>
+          <dict>
+            <key>Loop</key>
+            <integer>800</integer>
+            <key>Size</key>
+            <integer>920</integer>
+          </dict>
+          <key>transformation</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scaleX</key>
+            <integer>1</integer>
+            <key>scaleY</key>
+            <integer>1</integer>
+            <key>skewX</key>
+            <integer>0</integer>
+            <key>skewY</key>
+            <integer>0</integer>
+            <key>tCenterX</key>
+            <integer>0</integer>
+            <key>tCenterY</key>
+            <integer>0</integer>
+            <key>translateX</key>
+            <integer>500</integer>
+            <key>translateY</key>
+            <integer>340</integer>
+          </dict>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

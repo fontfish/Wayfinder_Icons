@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>uniE015</key>
+    <string>uniE_015.glif</string>
+    <key>uniE016</key>
+    <string>uniE_016.glif</string>
+    <key>uniE017</key>
+    <string>uniE_017.glif</string>
+    <key>uniE018</key>
+    <string>uniE_018.glif</string>
+    <key>uniE019</key>
+    <string>uniE_019.glif</string>
+    <key>uniE053</key>
+    <string>uniE_053.glif</string>
+    <key>uniE057</key>
+    <string>uniE_057.glif</string>
+    <key>uniE058</key>
+    <string>uniE_058.glif</string>
+    <key>uniE05A</key>
+    <string>uniE_05A_.glif</string>
+    <key>uniE05B</key>
+    <string>uniE_05B_.glif</string>
+    <key>uniE062</key>
+    <string>uniE_062.glif</string>
+  </dict>
+</plist>

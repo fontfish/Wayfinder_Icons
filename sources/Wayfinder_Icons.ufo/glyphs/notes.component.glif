@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="notes.component" format="2">
+  <advance width="500"/>
+  <note>
+Notes Glyph
+
+Minimum line width is 60.
+Standard should be 80?
+</note>
+  <outline>
+    <contour>
+      <point x="0" y="540" type="line"/>
+      <point x="280" y="540" type="line"/>
+      <point x="280" y="600" type="line"/>
+      <point x="0" y="600" type="line"/>
+    </contour>
+    <contour>
+      <point x="500" y="570" type="curve" smooth="yes"/>
+      <point x="500" y="553"/>
+      <point x="487" y="540"/>
+      <point x="470" y="540" type="curve" smooth="yes"/>
+      <point x="453" y="540"/>
+      <point x="440" y="553"/>
+      <point x="440" y="570" type="curve" smooth="yes"/>
+      <point x="440" y="587"/>
+      <point x="453" y="600"/>
+      <point x="470" y="600" type="curve" smooth="yes"/>
+      <point x="487" y="600"/>
+      <point x="500" y="587"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>xyz.fontra.layer-names</key>
+      <dict>
+        <key>::fontra000</key>
+        <string>default</string>
+      </dict>
+      <key>xyz.fontra.source-names</key>
+      <dict>
+        <key>Regular</key>
+        <string>default</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

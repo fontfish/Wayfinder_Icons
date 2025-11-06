@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniE052" format="2">
+  <advance width="1000"/>
+  <unicode hex="E052"/>
+  <outline>
+    <contour>
+      <point x="710" y="340" type="curve" smooth="yes"/>
+      <point x="710" y="456.1777777777778"/>
+      <point x="616.1777777777778" y="550"/>
+      <point x="500" y="550" type="curve" smooth="yes"/>
+      <point x="383.8222222222222" y="550"/>
+      <point x="290" y="456.1777777777778"/>
+      <point x="290" y="340" type="curve" smooth="yes"/>
+      <point x="290" y="223.82222222222222"/>
+      <point x="383.8222222222222" y="130"/>
+      <point x="500" y="130" type="curve" smooth="yes"/>
+      <point x="616.1777777777778" y="130"/>
+      <point x="710" y="223.82222222222222"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>xyz.fontra.glyph.source.customData</key>
+      <dict>
+        <key>fontra.development.status</key>
+        <integer>1</integer>
+      </dict>
+      <key>xyz.fontra.layer-names</key>
+      <dict>
+        <key>::fontra000</key>
+        <string>default</string>
+      </dict>
+      <key>xyz.fontra.source-names</key>
+      <dict>
+        <key>Regular</key>
+        <string>default</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
