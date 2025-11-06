@@ -14,6 +14,40 @@
           <key>location</key>
           <dict>
             <key>Length</key>
+            <integer>700</integer>
+            <key>Size</key>
+            <integer>80</integer>
+            <key>x</key>
+            <integer>0</integer>
+          </dict>
+          <key>transformation</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scaleX</key>
+            <integer>1</integer>
+            <key>scaleY</key>
+            <integer>1</integer>
+            <key>skewX</key>
+            <integer>0</integer>
+            <key>skewY</key>
+            <integer>0</integer>
+            <key>tCenterX</key>
+            <integer>0</integer>
+            <key>tCenterY</key>
+            <integer>0</integer>
+            <key>translateX</key>
+            <integer>500</integer>
+            <key>translateY</key>
+            <integer>340</integer>
+          </dict>
+        </dict>
+        <dict>
+          <key>base</key>
+          <string>line.component</string>
+          <key>location</key>
+          <dict>
+            <key>Length</key>
             <integer>860</integer>
             <key>Size</key>
             <integer>40</integer>
@@ -118,7 +152,7 @@
             <key>Length</key>
             <integer>608</integer>
             <key>Size</key>
-            <integer>90</integer>
+            <integer>40</integer>
             <key>x</key>
             <integer>0</integer>
           </dict>
@@ -152,7 +186,7 @@
             <key>Length</key>
             <integer>608</integer>
             <key>Size</key>
-            <integer>90</integer>
+            <integer>40</integer>
             <key>x</key>
             <integer>0</integer>
           </dict>
@@ -176,70 +210,6 @@
             <integer>500</integer>
             <key>translateY</key>
             <integer>340</integer>
-          </dict>
-        </dict>
-        <dict>
-          <key>base</key>
-          <string>circle.component</string>
-          <key>location</key>
-          <dict>
-            <key>Size</key>
-            <integer>40</integer>
-            <key>x</key>
-            <integer>0</integer>
-          </dict>
-          <key>transformation</key>
-          <dict>
-            <key>rotation</key>
-            <integer>0</integer>
-            <key>scaleX</key>
-            <integer>1</integer>
-            <key>scaleY</key>
-            <integer>1</integer>
-            <key>skewX</key>
-            <integer>0</integer>
-            <key>skewY</key>
-            <integer>0</integer>
-            <key>tCenterX</key>
-            <integer>0</integer>
-            <key>tCenterY</key>
-            <integer>0</integer>
-            <key>translateX</key>
-            <integer>500</integer>
-            <key>translateY</key>
-            <integer>770</integer>
-          </dict>
-        </dict>
-        <dict>
-          <key>base</key>
-          <string>circle.component</string>
-          <key>location</key>
-          <dict>
-            <key>Size</key>
-            <integer>40</integer>
-            <key>x</key>
-            <integer>0</integer>
-          </dict>
-          <key>transformation</key>
-          <dict>
-            <key>rotation</key>
-            <integer>0</integer>
-            <key>scaleX</key>
-            <integer>1</integer>
-            <key>scaleY</key>
-            <integer>1</integer>
-            <key>skewX</key>
-            <integer>0</integer>
-            <key>skewY</key>
-            <integer>0</integer>
-            <key>tCenterX</key>
-            <integer>0</integer>
-            <key>tCenterY</key>
-            <integer>0</integer>
-            <key>translateX</key>
-            <integer>500</integer>
-            <key>translateY</key>
-            <integer>-90</integer>
           </dict>
         </dict>
       </array>

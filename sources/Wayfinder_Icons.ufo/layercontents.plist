@@ -138,5 +138,25 @@
       <string>unflattened</string>
       <string>glyphs.unflattened</string>
     </array>
+    <array>
+      <string>02</string>
+      <string>glyphs.02</string>
+    </array>
+    <array>
+      <string>default^01</string>
+      <string>glyphs.default^01</string>
+    </array>
+    <array>
+      <string>03</string>
+      <string>glyphs.03</string>
+    </array>
+    <array>
+      <string>04</string>
+      <string>glyphs.04</string>
+    </array>
+    <array>
+      <string>01_unflattened</string>
+      <string>glyphs.01_unflattened</string>
+    </array>
   </array>
 </plist>

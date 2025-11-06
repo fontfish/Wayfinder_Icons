@@ -108,36 +108,6 @@
             <integer>340</integer>
           </dict>
         </dict>
-        <dict>
-          <key>base</key>
-          <string>circle.component</string>
-          <key>location</key>
-          <dict>
-            <key>Size</key>
-            <integer>240</integer>
-          </dict>
-          <key>transformation</key>
-          <dict>
-            <key>rotation</key>
-            <integer>0</integer>
-            <key>scaleX</key>
-            <integer>1</integer>
-            <key>scaleY</key>
-            <integer>1</integer>
-            <key>skewX</key>
-            <integer>0</integer>
-            <key>skewY</key>
-            <integer>0</integer>
-            <key>tCenterX</key>
-            <integer>0</integer>
-            <key>tCenterY</key>
-            <integer>0</integer>
-            <key>translateX</key>
-            <integer>500</integer>
-            <key>translateY</key>
-            <integer>340</integer>
-          </dict>
-        </dict>
       </array>
     </dict>
   </lib>

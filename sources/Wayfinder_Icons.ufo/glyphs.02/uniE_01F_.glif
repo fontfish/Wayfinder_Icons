@@ -1,8 +1,90 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph name="uniE05F" format="2">
+<glyph name="uniE01F" format="2">
   <advance width="1000"/>
-  <unicode hex="E05F"/>
+  <unicode hex="E01F"/>
   <outline>
+    <contour>
+      <point x="485" y="30" type="line" smooth="yes"/>
+      <point x="485" y="10"/>
+      <point x="500" y="-5"/>
+      <point x="520" y="-5" type="curve" smooth="yes"/>
+      <point x="540" y="-5"/>
+      <point x="555" y="10"/>
+      <point x="555" y="30" type="curve" smooth="yes"/>
+      <point x="555" y="256" type="line"/>
+      <point x="658" y="153" type="line" smooth="yes"/>
+      <point x="672" y="139"/>
+      <point x="693" y="139"/>
+      <point x="707" y="153" type="curve" smooth="yes"/>
+      <point x="721" y="167"/>
+      <point x="721" y="188"/>
+      <point x="707" y="202" type="curve" smooth="yes"/>
+      <point x="569" y="340" type="line"/>
+      <point x="707" y="478" type="line" smooth="yes"/>
+      <point x="721" y="492"/>
+      <point x="721" y="513"/>
+      <point x="707" y="527" type="curve" smooth="yes"/>
+      <point x="693" y="541"/>
+      <point x="672" y="541"/>
+      <point x="658" y="527" type="curve" smooth="yes"/>
+      <point x="555" y="424" type="line"/>
+      <point x="555" y="650" type="line" smooth="yes"/>
+      <point x="555" y="670"/>
+      <point x="540" y="685"/>
+      <point x="520" y="685" type="curve" smooth="yes"/>
+      <point x="500" y="685"/>
+      <point x="485" y="670"/>
+      <point x="485" y="650" type="curve" smooth="yes"/>
+      <point x="485" y="424" type="line"/>
+      <point x="382" y="527" type="line" smooth="yes"/>
+      <point x="368" y="541"/>
+      <point x="347" y="541"/>
+      <point x="333" y="527" type="curve" smooth="yes"/>
+      <point x="319" y="513"/>
+      <point x="319" y="492"/>
+      <point x="333" y="478" type="curve" smooth="yes"/>
+      <point x="471" y="340" type="line"/>
+      <point x="333" y="202" type="line" smooth="yes"/>
+      <point x="319" y="188"/>
+      <point x="319" y="167"/>
+      <point x="333" y="153" type="curve" smooth="yes"/>
+      <point x="347" y="139"/>
+      <point x="368" y="139"/>
+      <point x="382" y="153" type="curve" smooth="yes"/>
+      <point x="485" y="256" type="line"/>
+    </contour>
+    <contour>
+      <point x="267" y="616" type="line" smooth="yes"/>
+      <point x="253" y="602"/>
+      <point x="253" y="580"/>
+      <point x="267" y="567" type="curve" smooth="yes"/>
+      <point x="280" y="553"/>
+      <point x="302" y="553"/>
+      <point x="316" y="567" type="curve" smooth="yes"/>
+      <point x="457" y="708" type="line" smooth="yes"/>
+      <point x="471" y="722"/>
+      <point x="471" y="744"/>
+      <point x="457" y="757" type="curve" smooth="yes"/>
+      <point x="444" y="771"/>
+      <point x="422" y="771"/>
+      <point x="408" y="757" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="316" y="113" type="line" smooth="yes"/>
+      <point x="302" y="127"/>
+      <point x="280" y="127"/>
+      <point x="267" y="113" type="curve" smooth="yes"/>
+      <point x="253" y="100"/>
+      <point x="253" y="78"/>
+      <point x="267" y="64" type="curve" smooth="yes"/>
+      <point x="408" y="-77" type="line" smooth="yes"/>
+      <point x="422" y="-91"/>
+      <point x="444" y="-91"/>
+      <point x="457" y="-77" type="curve" smooth="yes"/>
+      <point x="471" y="-64"/>
+      <point x="471" y="-42"/>
+      <point x="457" y="-28" type="curve" smooth="yes"/>
+    </contour>
   </outline>
   <lib>
     <dict>
@@ -14,9 +96,9 @@
           <key>location</key>
           <dict>
             <key>Length</key>
-            <integer>860</integer>
+            <integer>620</integer>
             <key>Size</key>
-            <integer>50</integer>
+            <integer>70</integer>
             <key>x</key>
             <integer>0</integer>
           </dict>
@@ -37,7 +119,7 @@
             <key>tCenterY</key>
             <integer>0</integer>
             <key>translateX</key>
-            <integer>500</integer>
+            <integer>1520</integer>
             <key>translateY</key>
             <integer>340</integer>
           </dict>
@@ -48,43 +130,9 @@
           <key>location</key>
           <dict>
             <key>Length</key>
-            <integer>304</integer>
+            <integer>200</integer>
             <key>Size</key>
-            <integer>50</integer>
-            <key>x</key>
-            <integer>152</integer>
-          </dict>
-          <key>transformation</key>
-          <dict>
-            <key>rotation</key>
-            <integer>45</integer>
-            <key>scaleX</key>
-            <integer>1</integer>
-            <key>scaleY</key>
-            <integer>1</integer>
-            <key>skewX</key>
-            <integer>0</integer>
-            <key>skewY</key>
-            <integer>0</integer>
-            <key>tCenterX</key>
-            <integer>0</integer>
-            <key>tCenterY</key>
-            <integer>0</integer>
-            <key>translateX</key>
-            <integer>285</integer>
-            <key>translateY</key>
-            <integer>555</integer>
-          </dict>
-        </dict>
-        <dict>
-          <key>base</key>
-          <string>line.component</string>
-          <key>location</key>
-          <dict>
-            <key>Length</key>
-            <integer>1000</integer>
-            <key>Size</key>
-            <integer>80</integer>
+            <integer>70</integer>
             <key>x</key>
             <integer>0</integer>
           </dict>
@@ -105,9 +153,9 @@
             <key>tCenterY</key>
             <integer>0</integer>
             <key>translateX</key>
-            <integer>500</integer>
+            <integer>1362</integer>
             <key>translateY</key>
-            <integer>340</integer>
+            <integer>662</integer>
           </dict>
         </dict>
         <dict>
@@ -116,9 +164,9 @@
           <key>location</key>
           <dict>
             <key>Length</key>
-            <integer>1000</integer>
+            <integer>200</integer>
             <key>Size</key>
-            <integer>80</integer>
+            <integer>70</integer>
             <key>x</key>
             <integer>0</integer>
           </dict>
@@ -139,7 +187,41 @@
             <key>tCenterY</key>
             <integer>0</integer>
             <key>translateX</key>
-            <integer>500</integer>
+            <integer>1362</integer>
+            <key>translateY</key>
+            <integer>18</integer>
+          </dict>
+        </dict>
+        <dict>
+          <key>base</key>
+          <string>line.component</string>
+          <key>location</key>
+          <dict>
+            <key>Length</key>
+            <integer>460</integer>
+            <key>Size</key>
+            <integer>70</integer>
+            <key>x</key>
+            <integer>0</integer>
+          </dict>
+          <key>transformation</key>
+          <dict>
+            <key>rotation</key>
+            <integer>45</integer>
+            <key>scaleX</key>
+            <integer>1</integer>
+            <key>scaleY</key>
+            <integer>1</integer>
+            <key>skewX</key>
+            <integer>0</integer>
+            <key>skewY</key>
+            <integer>0</integer>
+            <key>tCenterX</key>
+            <integer>0</integer>
+            <key>tCenterY</key>
+            <integer>0</integer>
+            <key>translateX</key>
+            <integer>1520</integer>
             <key>translateY</key>
             <integer>340</integer>
           </dict>
@@ -150,11 +232,11 @@
           <key>location</key>
           <dict>
             <key>Length</key>
-            <integer>304</integer>
+            <integer>460</integer>
             <key>Size</key>
-            <integer>50</integer>
+            <integer>70</integer>
             <key>x</key>
-            <integer>152</integer>
+            <integer>0</integer>
           </dict>
           <key>transformation</key>
           <dict>
@@ -173,9 +255,9 @@
             <key>tCenterY</key>
             <integer>0</integer>
             <key>translateX</key>
-            <integer>285</integer>
+            <integer>1520</integer>
             <key>translateY</key>
-            <integer>125</integer>
+            <integer>340</integer>
           </dict>
         </dict>
       </array>

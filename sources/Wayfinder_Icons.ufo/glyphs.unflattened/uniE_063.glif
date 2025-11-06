@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph name="uniE02F" format="2">
+<glyph name="uniE063" format="2">
   <advance width="1000"/>
-  <unicode hex="E02F"/>
+  <unicode hex="E063"/>
   <outline>
   </outline>
   <lib>
@@ -42,54 +42,18 @@
         </dict>
         <dict>
           <key>base</key>
-          <string>line.component</string>
+          <string>ring.component</string>
           <key>location</key>
           <dict>
-            <key>Length</key>
-            <integer>580</integer>
+            <key>Loop</key>
+            <integer>510</integer>
             <key>Size</key>
-            <integer>80</integer>
-            <key>x</key>
-            <integer>0</integer>
+            <integer>610</integer>
           </dict>
           <key>transformation</key>
           <dict>
             <key>rotation</key>
-            <integer>45</integer>
-            <key>scaleX</key>
-            <integer>1</integer>
-            <key>scaleY</key>
-            <integer>1</integer>
-            <key>skewX</key>
             <integer>0</integer>
-            <key>skewY</key>
-            <integer>0</integer>
-            <key>tCenterX</key>
-            <integer>0</integer>
-            <key>tCenterY</key>
-            <integer>0</integer>
-            <key>translateX</key>
-            <integer>500</integer>
-            <key>translateY</key>
-            <integer>340</integer>
-          </dict>
-        </dict>
-        <dict>
-          <key>base</key>
-          <string>line.component</string>
-          <key>location</key>
-          <dict>
-            <key>Length</key>
-            <integer>580</integer>
-            <key>Size</key>
-            <integer>80</integer>
-            <key>x</key>
-            <integer>0</integer>
-          </dict>
-          <key>transformation</key>
-          <dict>
-            <key>rotation</key>
-            <integer>135</integer>
             <key>scaleX</key>
             <integer>1</integer>
             <key>scaleY</key>
@@ -114,7 +78,9 @@
           <key>location</key>
           <dict>
             <key>Size</key>
-            <integer>240</integer>
+            <integer>320</integer>
+            <key>x</key>
+            <integer>0</integer>
           </dict>
           <key>transformation</key>
           <dict>

@@ -5,8 +5,9 @@ A set of icons for use with Waybar.
 ## ToDo!
 
 - [x] Add Bluetooth icon and Bluetooth off icon.
-- [ ] Put all icons in private use area.
+- [x] Put all icons in private use area.
 - [ ] Make icons accessible with ligatures. E.g., “[icon-wifi]” should display a wifi icon. “[icon-battery-critical]”, “[icon-battery-low]”, “[icon-battery-mid]”, etc.
+- [ ] Add more volume, media and playback related icons, including play/pause and headphones.
 
 ### Extra
 

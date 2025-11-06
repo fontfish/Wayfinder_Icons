@@ -14,8 +14,6 @@
     <string>line_inner.component.glif</string>
     <key>notes.component</key>
     <string>notes.component.glif</string>
-    <key>radio</key>
-    <string>radio.glif</string>
     <key>ring.component</key>
     <string>ring.component.glif</string>
     <key>uniE000</key>
@@ -188,6 +186,8 @@
     <string>uniE_061.glif</string>
     <key>uniE062</key>
     <string>uniE_062.glif</string>
+    <key>uniE063</key>
+    <string>uniE_063.glif</string>
     <key>uniE080</key>
     <string>uniE_080.glif</string>
     <key>uniE081</key>
