@@ -158,5 +158,25 @@
       <string>01_unflattened</string>
       <string>glyphs.01_unflattened</string>
     </array>
+    <array>
+      <string>bg</string>
+      <string>glyphs.bg</string>
+    </array>
+    <array>
+      <string>thicker</string>
+      <string>glyphs.thicker</string>
+    </array>
+    <array>
+      <string>thinner</string>
+      <string>glyphs.thinner</string>
+    </array>
+    <array>
+      <string>thinner_2</string>
+      <string>glyphs.thinner_2</string>
+    </array>
+    <array>
+      <string>bg2</string>
+      <string>glyphs.bg2</string>
+    </array>
   </array>
 </plist>
